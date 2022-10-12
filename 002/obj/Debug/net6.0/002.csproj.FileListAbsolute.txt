@@ -1,0 +1,15 @@
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\bin\Debug\net6.0\002.exe
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\bin\Debug\net6.0\002.deps.json
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\bin\Debug\net6.0\002.runtimeconfig.json
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\bin\Debug\net6.0\002.dll
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\bin\Debug\net6.0\002.pdb
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\obj\Debug\net6.0\002.csproj.AssemblyReference.cache
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\obj\Debug\net6.0\002.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\obj\Debug\net6.0\002.AssemblyInfoInputs.cache
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\obj\Debug\net6.0\002.AssemblyInfo.cs
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\obj\Debug\net6.0\002.csproj.CoreCompileInputs.cache
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\obj\Debug\net6.0\002.dll
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\obj\Debug\net6.0\refint\002.dll
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\obj\Debug\net6.0\002.pdb
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\obj\Debug\net6.0\002.genruntimeconfig.cache
+D:\GeekBrains education\Основное\4. Знакомство с языками программирования\Repositories\Examples\002\obj\Debug\net6.0\ref\002.dll
